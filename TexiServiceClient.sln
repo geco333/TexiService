@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TexiServiceClient", "TexiServiceClient\TexiServiceClient.csproj", "{C7DF33F2-4FC6-4783-936D-FE9E290CB5CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TexiServiceServer", "TexiServiceServer\TexiServiceServer.csproj", "{3FD7408E-A01F-40A2-895D-8A98DAC56E8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C7DF33F2-4FC6-4783-936D-FE9E290CB5CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7DF33F2-4FC6-4783-936D-FE9E290CB5CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7DF33F2-4FC6-4783-936D-FE9E290CB5CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD7408E-A01F-40A2-895D-8A98DAC56E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD7408E-A01F-40A2-895D-8A98DAC56E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD7408E-A01F-40A2-895D-8A98DAC56E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD7408E-A01F-40A2-895D-8A98DAC56E8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
